@@ -1,6 +1,7 @@
-﻿using UIKit;
+﻿using ObjCRuntime;
+using UIKit;
 
-namespace MauiApp.Sample
+namespace MauiApp
 {
     public class Program
     {
